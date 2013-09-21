@@ -18,3 +18,5 @@ wiring diagram
 ==============
 
 ![diagram](ledstripfet.gif)
+
+I believe this diagram came from the awesome [adafruit](http://www.adafruit.com), check them out.
